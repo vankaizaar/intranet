@@ -1,0 +1,40 @@
+html {
+  background: #e9e9e9;
+}
+
+.loginbody {
+  background-image: url(/images/login-bg.jpg?7b3ca5eca50130c6dddb6b3291769e24);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.app::before {
+  background: transparent;
+}
+
+.bg-gold {
+  background: beige;
+}
+
+.logo {
+  max-height: 100px;
+}
+
+.white {
+  color: #fefefe;
+}
+
+.header {
+  background: #fff;
+}
+
+.translucent {
+  background: beige;
+  border-radius: 3px;
+}
+
+.linked {
+  color: inherit !important;
+}
+

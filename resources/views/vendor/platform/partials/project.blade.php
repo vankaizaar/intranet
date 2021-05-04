@@ -1,0 +1,15 @@
+<div class="row admin-wrapper">
+        <div class="container">
+            <div class="row text-left">
+                <div class="wrapper w-full">
+                    <h1 class="text-dark font-thin m-b-sm">
+                        {{$project->title}}
+                    </h1>                    
+                    <div class="">
+                        {!!$project->description!!}
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
